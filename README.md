@@ -7,7 +7,7 @@ Pipeline & preprocessing (leakage-säker, hantering av numeriskt/kategoriskt, re
 Modelljämförelse (baseline + minst 2 modeller, CV-upplägg) - **Biljana**  
 Optimering (tuning av 1 vald modell, 1–2 parametrar) - **Simon**  
 Threshold/prioritering (koppla kravkort → metric + FP/FN-konsekvens) - **Henri**  
-Pitch & risker (presentation, rekommendation, begränsningar, nästa steg)  
+Pitch & risker (presentation, rekommendation, begränsningar, nästa steg) - **Markus**
 
 ## installera beroenden
 python -m pip install -r requirement.txt
